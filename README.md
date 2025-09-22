@@ -23,11 +23,11 @@ US_Air_Transport_Performance_Dashboard.pbix
 
 
 ## 📸 Screenshots 
-###Overview  
+### Overview  
 ![Overview](screenshots/Overview.png)
 
 ### Airline Performance 
-![Airline Performance](screenshots/Airline Performance.png)
+![Airline Performance](screenshots/Airline Performance .png)
 
 ### Flight Disruptions Analysis
 ![Flight Disruptions Analysis](screenshots/Flight Disruptions Analysis.png)
@@ -36,5 +36,8 @@ US_Air_Transport_Performance_Dashboard.pbix
 ## 📊 Dataset
 Dataset source: 
 [Flight Delay and Cancellation Dataset (2019-2023) - Kaggle](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023)
+
+---
+
 
 ✍️ Created by Mary Alimadadi
