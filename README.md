@@ -27,10 +27,10 @@ US_Air_Transport_Performance_Dashboard.pbix
 ![Overview](screenshots/Overview.png)
 
 ### Airline Performance 
-![Airline Performance](screenshots/Airline Performance .png)
+![Airline Performance](screenshots/Airline%20Performance.png)
 
 ### Flight Disruptions Analysis
-![Flight Disruptions Analysis](screenshots/Flight Disruptions Analysis.png)
+![Flight Disruptions Analysis](screenshots/Flight%20Disruptions%20Analysis.png)
 
 
 ## 📊 Dataset
